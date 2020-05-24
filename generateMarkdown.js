@@ -12,7 +12,6 @@ function generateMarkdown(data) {
 [License](#License)\n
 [Contributing](#Contributing)\n
 [Tests](#Tests)\n\n
-[Questions](#githubprofile)\n\n
 
 ## Description\n
 ${data.description}\n\n
@@ -25,9 +24,8 @@ ${data.licensing}\n\n
 ## Contributing\n
 ${data.contribution}\n\n
 ## Tests\n
-${data.test}\n\n
-## Questions\n
-${data.githubprofile}
+${data.test}
+
 `,
 
         function (err) {
