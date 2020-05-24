@@ -4,7 +4,7 @@ function generateMarkdown(data) {
     fs.writeFile(
         filename,
 `# ${data.title}\n\n
-    [!Github Badge](https://img.shields.io/badge/Github-Profile-blueviolet)](${data.githubprofile})\n\n
+    [![Github Badge](https://img.shields.io/badge/Github-Profile-blueviolet)](${data.githubprofile})\n\n
 ## Table of Contents\n\n
 [Description](#Description)\n
 [Installation](#Installation)\n

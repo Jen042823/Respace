@@ -1,7 +1,7 @@
-# Jenny's project
+# jenny's project
 
 
-    [!Github Badge](https://img.shields.io/badge/Github-Profile-blueviolet)](www.google.com)
+    [![Github Badge](https://img.shields.io/badge/Github-Profile-blueviolet)](wwww.google.com)
 
 
 ## Table of Contents
