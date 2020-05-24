@@ -9,7 +9,7 @@ function generateMarkdown(data) {
 [Description](#Description)\n
 [Installation](#Installation)\n
 [Usage](#Usage)\n
-[License](#Liense)\n
+[License](#License)\n
 [Contributing](#Contributing)\n
 [Tests](#Tests)\n\n
 ## Description\n
@@ -17,7 +17,7 @@ ${data.description}\n\n
 ## Installation\n
 ${data.installation}\n\n
 ## Usage\n
-${data.usage}\n\n
+${data.usage}\n\n 
 ## License\n
 ${data.licensing}\n\n
 ## Contributing\n
