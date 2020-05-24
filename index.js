@@ -44,12 +44,7 @@ inquirer.prompt([
         name: "githubprofile",
         message: "Please link your Github profile link."
     },
-    {
-        type: "input",
-        name: "githubemail",
-        message: "Please provide githubemail."
-    },
-
+   
 ]).then(function(data) {
     generateMarkdown(data)
 });

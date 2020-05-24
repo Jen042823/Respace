@@ -13,7 +13,6 @@ function generateMarkdown(data) {
 [Contributing](#Contributing)\n
 [Tests](#Tests)\n\n
 [Questions](#githubprofile)\n\n
-[Questions](#githubemail)\n\n
 
 ## Description\n
 ${data.description}\n\n
@@ -28,9 +27,7 @@ ${data.contribution}\n\n
 ## Tests\n
 ${data.test}\n\n
 ## Questions\n
-${data.githubprofile}\n\n
-## Questions\n
-${data.githubemail}
+${data.githubprofile}
 `,
 
         function (err) {
