@@ -1,4 +1,4 @@
-# test
+# Readme Generator
 
 
 [![Github Badge](https://img.shields.io/badge/Github-Profile-blueviolet)](https://github.com/Jen042823/Respace)
@@ -13,7 +13,7 @@
 
 [Usage](#Usage)
 
-[License](#Liense)
+[License](#License)
 
 [Contributing](#Contributing)
 
@@ -22,29 +22,29 @@
 
 ## Description
 
-test
+Generating Readme
 
 
 ## Installation
 
-test
+Go to my github page and download Readme page
 
 
 ## Usage
 
-ste
+I'm going to share my github link
 
-
+ 
 ## License
 
-sdfa
+n/a
 
 
 ## Contributing
 
-adsfa
+Jenny
 
 
 ## Tests
 
-asdfa
+test on
